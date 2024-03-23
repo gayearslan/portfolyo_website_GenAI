@@ -1,0 +1,4 @@
+prompt 1
+Kendini portfolyo web sitesi oluşturmak isteyen bir üniversite öğrencisi olarak hayal et. Mobil ve web uyumlu olsun. Yeşil ve kırmızı tonlarıyla oluşturulsun. Baguet script yazı tipiyle başlıkları yaz. Başlıklar özgeçmişim, projelerim, katıldığım etkinlikler, hobilerim gibi alanlar içersin. Metinler times new roman tipinde olsun. Sayfa ilk açıldığında profil fotoğrafım ve ismim gözüksün ve hizalı olsunlar.projelerim ksımına link koyabileceğim şeklinde olsun. Katıldığım etkinlikler kısmına koydupum sertifikaların boyutu width: 200px;height: auto; şeklinde olsun.
+profil fotoğrafı ve ismim alt alta değil yan yana gözüksün
+Bu site html ve css ile kodlansın ve bana kodları göster.
